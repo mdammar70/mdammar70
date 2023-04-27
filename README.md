@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 - 🔭 I’m currently working on **ReactJs, Nodejs, Langchain Js, Supabase, OpenAi Api**
 - 🌱 I’m currently learning **Next Js, Typescript**
