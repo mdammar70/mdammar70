@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+As an aspiring software engineer, I have honed my skills in C++, data structures, algorithms, and Web Dev. Proficient in JavaScript and ReactJS, I'm always looking to expand my skill set and take on new challenges. With a 5-star rating on HackerRank, I have demonstrated my ability to solve complex problems with creative solutions. As a fast learner who is passionate about technology, I am constantly working on personal projects to sharpen my skills and stay up-to-date with the latest trends in software engineering. Let's connect and explore how we can collaborate to build innovative solutions!
+
 - 🔭 I’m currently working on **ReactJs, Nodejs, Langchain Js, Supabase, OpenAi Api**
 - 🌱 I’m currently learning **Next Js, Typescript**
 - 👯 I’m looking to collaborate on **Javascript, Typescript or Python related Stuff**
